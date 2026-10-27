@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "UYGULAMA 1 - Arıza Takip",
+    "slug": "uygulama1-arizatakip",
+    "description": "Teknik Destek ve Arıza Takip Sistemi - Expo Router Stack Navigasyonu, Dinamik Rotalar ve StatusBadge Rozetleri",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "arizatakip",
+    "web": {
+      "output": "static"
+    },
+    "plugins": ["expo-router"]
+  }
+}
