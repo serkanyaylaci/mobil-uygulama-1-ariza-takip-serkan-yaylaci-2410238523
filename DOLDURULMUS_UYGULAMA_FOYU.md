@@ -210,3 +210,37 @@ Projede 5 adet ortak bileşen ayrıştırdım:
 - [x] Bileşenler ayrı dosyalarda (`components/` altında) bulunuyor.
 - [x] Test tablosu işaretlendi ve hata ayıklama notu yazıldı.
 - [x] Rapor ve doldurulmuş uygulama föyü tamamlandı.
+- [x] Tüm ekran görüntüleri ikili yan yana (50% - 50%) düzende eklendi.
+
+---
+
+## 📷 Uygulama Ekran Görüntüleri Çıktısı (İkili / Yarı Yarıya Düzen)
+
+### 1. Çift: Hafta 6 Uygulama Portalı ve Hızlı Test Menüsü
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="ekran_goruntuleri/01_portal_genel.png" width="95%" style="border-radius: 8px; border: 1px solid #cbd5e1;" /><br/>
+      <strong>Şekil 1:</strong> Hafta 6 Uygulama Portalı (Giriş)
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="ekran_goruntuleri/02_portal_testler.png" width="95%" style="border-radius: 8px; border: 1px solid #cbd5e1;" /><br/>
+      <strong>Şekil 2:</strong> Hızlı Föy Test Kısayolları Paneli
+    </td>
+  </tr>
+</table>
+
+### 2. Çift: Uygulama 1 - Arıza Takip Sistemi (T1 & T2 Testleri)
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="ekran_goruntuleri/03_ariza_listesi_t1.png" width="95%" style="border-radius: 8px; border: 1px solid #cbd5e1;" /><br/>
+      <strong>Şekil 3:</strong> Arıza Takip Listesi Ekranı (<strong>T1 Testi</strong>)
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="ekran_goruntuleri/04_ariza_detay_101_t2.png" width="95%" style="border-radius: 8px; border: 1px solid #cbd5e1;" /><br/>
+      <strong>Şekil 4:</strong> #101 Nolu Arıza Dinamik Detayı (<strong>T2 Testi</strong>)
+    </td>
+  </tr>
+</table>
+
