@@ -244,3 +244,31 @@ Projede 5 adet ortak bileşen ayrıştırdım:
   </tr>
 </table>
 
+### 3. Çift: Uygulama 2 - Mini Ürün Kataloğu (Liste & Detay)
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="ekran_goruntuleri/05_urun_katalog_listesi.png" width="95%" style="border-radius: 8px; border: 1px solid #cbd5e1;" /><br/>
+      <strong>Şekil 5:</strong> Teknoloji Mağazası Ürün Kataloğu
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="ekran_goruntuleri/06_urun_detay_p1.png" width="95%" style="border-radius: 8px; border: 1px solid #cbd5e1;" /><br/>
+      <strong>Şekil 6:</strong> Dinamik Ürün İnceleme (/urun/p1 - Fiyat, Stokta Rozeti)
+    </td>
+  </tr>
+</table>
+
+### 4. Çift: Uygulama 3 - Öğrenci Ders Programı (Liste & Detay)
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="ekran_goruntuleri/07_ders_programi_listesi.png" width="95%" style="border-radius: 8px; border: 1px solid #cbd5e1;" /><br/>
+      <strong>Şekil 7:</strong> Haftalık Ders Çizelgesi (Gün Filtresi & Sayaç)
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="ekran_goruntuleri/08_ders_detay_d1.png" width="95%" style="border-radius: 8px; border: 1px solid #cbd5e1;" /><br/>
+      <strong>Şekil 8:</strong> Dinamik Ders Bilgileri Detayı (BLG-301 Mobil Programlama)
+    </td>
+  </tr>
+</table>
+
